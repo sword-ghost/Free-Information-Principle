@@ -24,4 +24,4 @@ By integrating insights from cognitive science and semiotics with a geometric mo
 
 This framework provides a new lens for viewing AI, suggesting that true intelligence is not about accumulating data but about mastering the unseen depths of information itself.
 
-Read the full paper here
+Read the full paper here https://github.com/sword-ghost/Free-Information-Principle/blob/main/The%20Unseen%20Depths..pdf
